@@ -1,0 +1,37 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Georgia, Garamond, serif;
+	color: #333333;
+	text-align: center;
+}
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #d0e9ff; 
+}
+nav {
+	background-color: #a0aab3;
+	padding: 10px;
+	margin: 10px;
+}
+li {
+	display: inline-block;
+	padding: 5px;
+}
+section {
+	overflow: auto;
+	height: 100%;
+}
+main {
+	background-color: #a0aab3;
+	padding: 10px;
+	margin: 10px;
+}
+article {
+	float: left;
+	background-color: #a0aab3;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+}
